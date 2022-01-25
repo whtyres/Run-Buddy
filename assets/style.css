@@ -64,6 +64,9 @@ section{
 }
 
 /* hero styling*/
+.upgrade{
+    text-align: right;
+}
 .hero{
     background-image: url("/assets/images/hero-bg.jpg");
     height: 600px;
